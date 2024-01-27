@@ -23,7 +23,7 @@ pip3 install git+https://github.com/Juvenal-Yescas/mediafire-dl
 ## Usage
 **Step 1**: Select files to download. \
 **Step 2**: Copy share link.  
-![Alt text](readme_img\tutorial.PNG?raw=true "Title")
+![Alt text](./readme_img/tutorial.PNG?raw=true "Title")
 **Step 3**: From Command Line. 
 ```bash
 cd mediafire-batch-download
