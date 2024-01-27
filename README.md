@@ -1,5 +1,6 @@
 <h1 align="center">
-  mediafire-dl
+  mediafire-batch-download
+
 </h1>
 
 ## Description
